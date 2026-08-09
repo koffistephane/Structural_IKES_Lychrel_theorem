@@ -1,0 +1,149 @@
+{
+  "all_pure": true,
+  "candidate_count": 236,
+  "family_candidate_counts": {
+    "196": 102,
+    "1997": 30,
+    "7059": 33,
+    "879": 70,
+    "9999": 1
+  },
+  "max_iter": 500,
+  "signature_count": 12,
+  "signatures": [
+    {
+      "R0": "0110",
+      "candidate_count": 48,
+      "canonical_node": 9438,
+      "family_seed": 879,
+      "is_pure": true,
+      "signature": [
+        8,
+        13
+      ]
+    },
+    {
+      "R0": "1001",
+      "candidate_count": 48,
+      "canonical_node": 13783,
+      "family_seed": 196,
+      "is_pure": true,
+      "signature": [
+        13,
+        7
+      ]
+    },
+    {
+      "R0": "0110",
+      "candidate_count": 36,
+      "canonical_node": 7436,
+      "family_seed": 196,
+      "is_pure": true,
+      "signature": [
+        6,
+        13
+      ]
+    },
+    {
+      "R0": "1111",
+      "candidate_count": 18,
+      "canonical_node": 14773,
+      "family_seed": 196,
+      "is_pure": true,
+      "signature": [
+        13,
+        16
+      ]
+    },
+    {
+      "R0": "1001",
+      "candidate_count": 18,
+      "canonical_node": 16566,
+      "family_seed": 7059,
+      "is_pure": true,
+      "signature": [
+        16,
+        5
+      ]
+    },
+    {
+      "R0": "1001",
+      "candidate_count": 18,
+      "canonical_node": 17897,
+      "family_seed": 1997,
+      "is_pure": true,
+      "signature": [
+        17,
+        8
+      ]
+    },
+    {
+      "R0": "1001",
+      "candidate_count": 16,
+      "canonical_node": 17787,
+      "family_seed": 879,
+      "is_pure": true,
+      "signature": [
+        17,
+        7
+      ]
+    },
+    {
+      "R0": "1111",
+      "candidate_count": 15,
+      "canonical_node": 17556,
+      "family_seed": 7059,
+      "is_pure": true,
+      "signature": [
+        16,
+        14
+      ]
+    },
+    {
+      "R0": "0110",
+      "candidate_count": 8,
+      "canonical_node": 9988,
+      "family_seed": 1997,
+      "is_pure": true,
+      "signature": [
+        8,
+        18
+      ]
+    },
+    {
+      "R0": "1111",
+      "candidate_count": 6,
+      "canonical_node": 18777,
+      "family_seed": 879,
+      "is_pure": true,
+      "signature": [
+        17,
+        16
+      ]
+    },
+    {
+      "R0": "1111",
+      "candidate_count": 4,
+      "canonical_node": 18887,
+      "family_seed": 1997,
+      "is_pure": true,
+      "signature": [
+        17,
+        17
+      ]
+    },
+    {
+      "R0": "1111",
+      "candidate_count": 1,
+      "canonical_node": 19998,
+      "family_seed": 9999,
+      "is_pure": true,
+      "signature": [
+        18,
+        18
+      ]
+    }
+  ],
+  "test_after_first_step": true,
+  "width": 4
+}

@@ -1,0 +1,4 @@
+signature,candidate_count,total_with_signature,is_pure,canonical_node,R0,candidates
+7 9,7,7,True,887,010,196 295 394 493 592 691 790
+15 8,4,4,True,1675,111,689 788 887 986
+17 7,2,2,True,1857,111,879 978

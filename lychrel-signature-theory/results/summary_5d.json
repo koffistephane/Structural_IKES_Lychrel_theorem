@@ -1,0 +1,131 @@
+{
+  "candidate_count": 5842,
+  "component_follow": null,
+  "max_iter": 500,
+  "observed_component_count_exploratory": null,
+  "signature_count": 248,
+  "test_after_first_step": true,
+  "top_signatures": [
+    {
+      "R0": "00100",
+      "candidate_count": 81,
+      "canonical_node": 99489,
+      "signature": [
+        9,
+        8,
+        7
+      ]
+    },
+    {
+      "R0": "01111",
+      "candidate_count": 81,
+      "canonical_node": 101709,
+      "signature": [
+        9,
+        10,
+        8
+      ]
+    },
+    {
+      "R0": "00110",
+      "candidate_count": 80,
+      "canonical_node": 90298,
+      "signature": [
+        8,
+        9,
+        6
+      ]
+    },
+    {
+      "R0": "00100",
+      "candidate_count": 72,
+      "canonical_node": 89488,
+      "signature": [
+        8,
+        8,
+        7
+      ]
+    },
+    {
+      "R0": "01111",
+      "candidate_count": 72,
+      "canonical_node": 102719,
+      "signature": [
+        9,
+        11,
+        8
+      ]
+    },
+    {
+      "R0": "11001",
+      "candidate_count": 70,
+      "canonical_node": 129702,
+      "signature": [
+        12,
+        9,
+        3
+      ]
+    },
+    {
+      "R0": "00100",
+      "candidate_count": 64,
+      "canonical_node": 88078,
+      "signature": [
+        8,
+        7,
+        5
+      ]
+    },
+    {
+      "R0": "00100",
+      "candidate_count": 64,
+      "canonical_node": 88678,
+      "signature": [
+        8,
+        7,
+        8
+      ]
+    },
+    {
+      "R0": "00100",
+      "candidate_count": 64,
+      "canonical_node": 88878,
+      "signature": [
+        8,
+        7,
+        9
+      ]
+    },
+    {
+      "R0": "01010",
+      "candidate_count": 64,
+      "canonical_node": 91118,
+      "signature": [
+        8,
+        11,
+        0
+      ]
+    },
+    {
+      "R0": "01010",
+      "candidate_count": 64,
+      "canonical_node": 91518,
+      "signature": [
+        8,
+        11,
+        2
+      ]
+    },
+    {
+      "R0": "01110",
+      "candidate_count": 64,
+      "canonical_node": 92518,
+      "signature": [
+        8,
+        11,
+        7
+      ]
+    }
+  ],
+  "width": 5
+}
