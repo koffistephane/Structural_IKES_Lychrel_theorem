@@ -1,2 +1,2 @@
-# Structural_IKES_Lychrel_theorem
-This gives the code base to demonstrate the mathematical work done to further understand the structure of potential Lychrel candidates
+# Structural_Analysis_base10_candidates_Lychrel_theorem(fixed iteration bound at 500 for reverse and add Process)
+This gives the code base to demonstrate the mathematical work done to further understand the structure of potential Lychrel candidates in base 10 with advanced work around 3 and 4 digits numbers,exploratory work around 5-digits number (Axis 1) and  a potential bridge towards generalisation for n-digits numbers(Axis 2 )
